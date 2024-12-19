@@ -60,7 +60,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 3. Execute o Jupyter Notebook ou script Python fornecido para realizar a análise.
 
 ## Autores
-Este estudo faz parte de um projeto de pesquisa conduzido pela turma N1, sexto semestre.
+Pedro Henrique 
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT. Sinta-se à vontade para usá-lo e adaptá-lo para fins educacionais.
